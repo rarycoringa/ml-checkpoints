@@ -1,0 +1,4 @@
+outputs/hog_features_128_16.csv filter=lfs diff=lfs merge=lfs -text
+outputs/hog_features_128_20.csv filter=lfs diff=lfs merge=lfs -text
+outputs/hog_features_256_16.csv filter=lfs diff=lfs merge=lfs -text
+outputs/hog_features_256_20.csv filter=lfs diff=lfs merge=lfs -text
