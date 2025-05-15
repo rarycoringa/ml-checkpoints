@@ -1,5 +1,5 @@
 [project]
-name = "image-extraction-knn"
+name = "image-extraction-and-training"
 version = "0.1.0"
 description = "Add your description here"
 readme = "README.md"
@@ -8,5 +8,6 @@ dependencies = [
     "jupyter>=1.1.1",
     "pandas~=2.2.3",
     "scikit-image~=0.25.2",
+    "scikit-learn~=1.6.1",
     "tensorflow~=2.19.0",
 ]
