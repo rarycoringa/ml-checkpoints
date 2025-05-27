@@ -1,2 +1,2 @@
-# ml-image-extraction-knn
+# ml-checkpoints
 IMD1101 - Aprendizado de Máquina
